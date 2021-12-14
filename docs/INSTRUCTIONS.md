@@ -58,10 +58,11 @@ Hieronder staat een  voorbeeld van een Wireflow. De _User Story_ van is:
 <details>
 <summary>Aanpak</summary>
 
-1. Schets alle schermen en/of states die een gebruiker te zien krijgt
-2. Geef de interactie aan en met pijlen de flow aan
+1. Schets alle mogelijke output (schermen en states) die een gebruiker te zien krijgt
+2. Geef met een andere kleur de interactie aan. Op welke elementen klikt een gebruiker? Scrollen of draggen?
+3. Geef met pijlen de _User Flow_ aan
 3. Geef elke scherm en state een nummer en titel
-4. Schrijf onder elk scherm en state wat een gebruiker te zien krijgt
+4. Schrijf onder elk scherm en state wat een gebruiker doet en wat de interface moet laten zien
 
 #### Materiaal ontwerpfase
 
