@@ -71,7 +71,7 @@ Hieronder staat een  voorbeeld van een Wireflow. De _User Story_ van is:
     
 ### Testen
 
-Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zien. Een Wireflow is voor jezelf, maar ook voor je team waar je mee samen werkt of om een product owner te laten zien hoe een interactie moet gaan werken. 
+Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zien. Een Wireflow is voor jezelf, maar ook voor je team waar je mee samen werkt of om een product owner te laten zien hoe een interactie moet gaan werken. Andere mensen moeten je schets kunnen begrijpen. Het is belangrijk dat je netjes schetst, goede labels gebruikt en passende teksten schrijft. 
     
 Laat de wireflow schets aan iemand anders zien en spreek de interactie door. 
 Is de schets duidelijk voor een collega designer en developer? Verwerk de feedback als dat nodig is. 
