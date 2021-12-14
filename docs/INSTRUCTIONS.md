@@ -25,7 +25,7 @@ Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [tes
 
 ### Analyseren
 
-Voordat je een Wireflow tekenet moet je goed beschrijven wie de gebruiker is en wat de doelen van de gebruker zijn. Daarna kun je met een _User Story_ schrijven wat de belangrikste interactie is die je gaat schetsen in een wireflow. 
+Voordat je een Wireflow gaat tekenen moet je goed beschrijven wie de gebruiker is en wat de doelen van de gebruker zijn. Daarna kun je met een _User Story_ schrijven wat de belangrikste interactie is die je gaat schetsen in een wireflow. 
 
 <details>
 <summary>Aanpak</summary>
@@ -41,6 +41,8 @@ Voordat je een Wireflow tekenet moet je goed beschrijven wie de gebruiker is en 
 </details>
 
 ### Ontwerpen
+
+Een Wireflow geeft de User Flow weer van een interactie. 
 
 Teken een Wireflow die alle mogelijke output, de belangrijkste userflow  en de interactie duidelijk maakt.
 
@@ -68,9 +70,11 @@ Hieronder staat een  voorbeeld van een Wireflow. De _User Story_ van is:
 </details>
     
 ### Testen
+
+Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zien. Een Wireflow is voor jezelf, maar ook voor je team waar je mee samen werkt of om een product owner te laten zien hoe een interactie moet gaan werken. 
     
 Laat de wireflow schets aan iemand anders zien en spreek de interactie door. 
-Is de schets duidelijk voor een collega designer en developer? Pas de schets aan waar dat nodig is. 
+Is de schets duidelijk voor een collega designer en developer? Verwerk de feedback als dat nodig is. 
 
 
 
