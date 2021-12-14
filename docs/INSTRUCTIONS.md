@@ -10,30 +10,31 @@ Teken een Wireflow van de belangrijkste interactie.
 
 Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een Duplicate die je individueel uitvoert.
 
+In het college S05W1 - User Stories & Wireflows is behandeld wat een wireflow is en hoe je dit goed kan tekenen. 
+
 
 ## Doel van deze opdracht
 
-Je leert hoe je interactie in een Wireflow moet tekenen. 
-
+Je leert hoe je een Wireflow moet tekenen. 
 
 
 ## Werkwijze
 
 Opdracht: Teken een Wireflow van de belangrijkste interactie van jouw opdracht.
 
+![image](https://user-images.githubusercontent.com/1391509/146001976-f7c7ecb4-5e3e-48c0-bd75-1aa1bb244cc1.png)
+
 Deze opdracht gaat over het [analyseren](#analyseren), [ontwerpen](#ontwerpen) en [testen](#testen) van de DLC.
 
 ### Analyseren
 
-1. Schrijf eerst wie de gebruiker is van jouw opdracht en wat de gebruiker wil bereiken, wat is de _User Goal_?
-2. Schrijf een User Story van de belangrijkste interactie: Als <gebruiker> wil ik <functionaliteit> zodat <meerwaarde>
+Voordat je een Wireflow tekenet moet je goed beschrijven wie de gebruiker is en wat de doelen van de gebruker zijn. Daarna kun je met een _User Story_ schrijven wat de belangrikste interactie is die je gaat schetsen in een wireflow. 
 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Schrijf eerst wie de gebruiker is van jouw opdracht en wat de gebruiker wil bereiken, wat is de _User Goal_?
+2. Schrijf een _User Story_ van de belangrijkste interactie: Als <gebruiker> wil ik <functionaliteit> zodat <meerwaarde>
 
 #### Materiaal analysefase
 
