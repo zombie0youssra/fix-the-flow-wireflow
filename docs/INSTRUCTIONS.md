@@ -77,8 +77,8 @@ Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zi
 <details>
 <summary>Aanpak</summary>
 
-1. Laat de wireflow schets aan een klasgenoot zien en spreek de interactie door. 
-2. Is de schets duidelijk voor een collega designer en developer? Schrijf op- of aanmerkinge bij je schets.
+1. Laat de wireflow aan een klasgenoot zien en spreek de interactie door. 
+2. Is de schets duidelijk voor een collega designer en developer? Schrijf op- of aanmerkingen bij je schets.
 3. Verwerk de feedback als dat nodig is.
 
 </details>
