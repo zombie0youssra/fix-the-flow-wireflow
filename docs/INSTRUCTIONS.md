@@ -60,8 +60,8 @@ Hieronder staat een  voorbeeld van een Wireflow. De _User Story_ van is:
 1. Schets alle mogelijke output (schermen en states) die een gebruiker te zien krijgt
 2. Geef met een andere kleur de interactie aan. Op welke elementen klikt een gebruiker? Scrollen of draggen?
 3. Geef met pijlen de _User Flow_ aan
-3. Geef elke scherm en state een nummer en titel
-4. Schrijf onder elk scherm en state wat een gebruiker doet en wat de interface moet laten zien
+4. Geef elke scherm en state een nummer en titel
+5. Schrijf onder elk scherm en state wat een gebruiker doet en wat de interface moet laten zien
 
 #### Materiaal ontwerpfase
 
@@ -73,8 +73,15 @@ Hieronder staat een  voorbeeld van een Wireflow. De _User Story_ van is:
 
 Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zien. Een Wireflow is voor jezelf, maar ook voor je team waar je mee samen werkt of om een product owner te laten zien hoe een interactie moet gaan werken. Andere mensen moeten je schets kunnen begrijpen. Het is belangrijk dat je netjes schetst, goede labels gebruikt en passende teksten schrijft. 
     
-Laat de wireflow schets aan iemand anders zien en spreek de interactie door. 
-Is de schets duidelijk voor een collega designer en developer? Verwerk de feedback als dat nodig is. 
+    
+<details>
+<summary>Aanpak</summary>
+
+1. Laat de wireflow schets aan een klasgenoot zien en spreek de interactie door. 
+2. Is de schets duidelijk voor een collega designer en developer? Schrijf op- of aanmerkinge bij je schets.
+3. Verwerk de feedback als dat nodig is.
+
+</details>
 
 
 
