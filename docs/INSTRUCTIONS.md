@@ -10,7 +10,7 @@ Teken een Wireflow van de belangrijkste interactie.
 
 Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een Duplicate die je individueel uitvoert.
 
-In het college S05W1 - User Stories & Wireflows is behandeld wat een wireflow is en hoe je dit goed kan tekenen. 
+In het college S05W1 - User Stories & Wireflows wordt behandeld wat een Wireflow is en hoe je dit goed kan tekenen. 
 
 
 ## Doel van deze opdracht
