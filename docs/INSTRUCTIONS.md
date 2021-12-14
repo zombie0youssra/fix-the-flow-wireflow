@@ -1,14 +1,11 @@
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
-
-# Wireflow
+# Wireflow Duplicate
 
 Teken een Wireflow van de belangrijkste interactie.
 
 ## Context
 
-Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een Duplicate die je individueel uitvoert.
+Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een Duplicate taak die je individueel uitvoert.
 
 In het college S05W1 - User Stories & Wireflows wordt behandeld wat een Wireflow is en hoe je dit goed kan tekenen. 
 
@@ -24,7 +21,7 @@ Opdracht: Teken een Wireflow van de belangrijkste interactie van jouw opdracht.
 
 ![image](https://user-images.githubusercontent.com/1391509/146001976-f7c7ecb4-5e3e-48c0-bd75-1aa1bb244cc1.png)
 
-Deze opdracht gaat over het [analyseren](#analyseren), [ontwerpen](#ontwerpen) en [testen](#testen) van de DLC.
+Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [test](#testen) fase van de DLC.
 
 ### Analyseren
 
