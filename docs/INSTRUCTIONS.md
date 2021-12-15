@@ -85,12 +85,13 @@ Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zi
 
 ## Criteria
 
-    De Wireflow opdracht is *done* als
-    - Het is duidelijk wie de gebruiker is 
-    - Er is een User Storey geschreven van de interactie
-    - Er is een wireflow getekend met alle mogelijke output (schermen en/of states), user flow en de interactie is goed weergegeven
-    - Alle schermen en/of states hebben een nummer, titel en beschrijving
-    - De opdracht is gedocumenteerd in de Readme van de leertaak
+De Wireflow opdracht is *done* als
+
+- Het is duidelijk wie de gebruiker is 
+- Er is een User Storey geschreven van de interactie
+- Er is een wireflow getekend met alle mogelijke output (schermen en/of states), user flow en de interactie is goed weergegeven
+- Alle schermen en/of states hebben een nummer, titel en beschrijving
+- De opdracht is gedocumenteerd in de Readme van de leertaak
 
 Focus sprint 5 - De focus van deze sprint ligt op navigatie en informatie architectuur van een website. Organiseren en structureren van informatie, Design Patterns toepassen, Navigatie, filteren en zoekstrategieën, Micro Interacties.
 
