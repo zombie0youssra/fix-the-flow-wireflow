@@ -1,5 +1,5 @@
 
-# Wireflow Duplicate
+# Fix-the-Flow Wireflow
 
 Teken een Wireflow van de belangrijkste interactie.
 
