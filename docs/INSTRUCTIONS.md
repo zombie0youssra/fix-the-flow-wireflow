@@ -92,15 +92,7 @@ De Wireflow opdracht is *done* als
 - [ ] Er is een wireflow getekend met alle mogelijke output (schermen en/of states), user flow en de interactie is goed weergegeven
 - [ ] Alle schermen en/of states hebben een nummer, titel en beschrijving
 - [ ] De opdracht is gedocumenteerd in de Readme van de leertaak
-    
-- [x] Design
-- [x] Mockups
-- [x] Development
-- [x] Unit testing
-- [ ] QA
-- [ ] Stage
-- [ ] Beta Testing
-- [ ] Production
+
 
 Focus sprint 5 - De focus van deze sprint ligt op navigatie en informatie architectuur van een website. Organiseren en structureren van informatie, Design Patterns toepassen, Navigatie, filteren en zoekstrategieën, Micro Interacties.
 
