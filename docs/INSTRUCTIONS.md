@@ -12,7 +12,7 @@ In het college S05W1 - User Stories & Wireflows wordt behandeld wat een Wireflow
 
 ## Doel van deze opdracht
 
-Je leert hoe je een Wireflow moet tekenen. 
+Je leert hoe je een Wireflow moet tekenen en je ontwerp kan overbrengen aan een collega. 
 
 
 ## Werkwijze
