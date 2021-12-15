@@ -25,7 +25,7 @@ Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [tes
 
 ### Analyseren
 
-Voordat je een Wireflow gaat tekenen moet je goed beschrijven wie de gebruiker is en wat de doelen van de gebruker zijn. Daarna kun je met een _User Story_ schrijven wat de belangrikste interactie is die je gaat schetsen in een wireflow. 
+Voordat je een Wireflow gaat tekenen moet je goed beschrijven wie de gebruiker is en wat de doelen van de gebruker zijn. Daarna kun je met een _User Story_ de belangrijkste interactie is die je gaat schetsen in een wireflow. 
 
 <details>
 <summary>Aanpak</summary>
