@@ -48,7 +48,7 @@ Teken een Wireflow die alle mogelijke output, de belangrijkste userflow  en de 
 
 Hieronder staat een  voorbeeld van een Wireflow. De _User Story_ van is:
     
-'Als een gebruiker wil ik een verhaal kunnen terugvinden door op een woord uit de titel te zoeken'
+`Als een gebruiker wil ik een verhaal kunnen terugvinden door op een woord uit de titel te zoeken`
     
 ![image](https://user-images.githubusercontent.com/1391509/146001069-76346dd9-d579-421d-9bc4-79b5380b7637.png)
 
