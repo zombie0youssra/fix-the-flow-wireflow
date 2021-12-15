@@ -1,11 +1,11 @@
 
-# Fix-the-Flow Wireflow
+# Fix the Flow - Wireflow
 
 Teken een Wireflow van de belangrijkste interactie.
 
 ## Context
 
-Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een Duplicate taak die je individueel uitvoert.
+Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een deeltaak die je individueel uitvoert.
 
 In het college S05W1 - User Stories & Wireflows wordt behandeld wat een Wireflow is en hoe je dit goed kan tekenen. 
 
