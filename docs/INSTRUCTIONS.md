@@ -88,9 +88,10 @@ Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zi
 De Wireflow opdracht is *done* als
 
 - [ ] Het is duidelijk wie de gebruiker is 
-- [ ] Er is een User Storey geschreven van de interactie
-- [ ] Er is een Wireflow getekend met alle mogelijke output (schermen en/of states), de User Flow en de interactie zijn goed weergegeven
+- [ ] Er is een _User Story_ geschreven van de interactie
+- [ ] Er is een Wireflow getekend met alle mogelijke output (schermen en/of states)
 - [ ] Alle schermen en/of states hebben een nummer, titel en beschrijving
+- [ ] De _User Flow_ en de interactie zijn goed weergegeven
 - [ ] De opdracht is gedocumenteerd in de Readme van de leertaak
 
 
