@@ -31,7 +31,7 @@ Voordat je een Wireflow gaat tekenen moet je goed beschrijven wie de gebruiker i
 <summary>Aanpak</summary>
 
 1. Schrijf eerst wie de gebruiker is van jouw opdracht en wat de gebruiker wil bereiken, wat is de _User Goal_?
-2. Schrijf een _User Story_ van de belangrijkste interactie: Als <gebruiker> wil ik <functionaliteit> zodat <meerwaarde>
+2. Schrijf een _User Story_ van de belangrijkste interactie: `Als <gebruiker> wil ik <functionaliteit> zodat <meerwaarde>`
 
 #### Materiaal analysefase
 
