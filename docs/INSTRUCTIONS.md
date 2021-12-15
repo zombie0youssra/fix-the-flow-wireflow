@@ -89,7 +89,7 @@ De Wireflow opdracht is *done* als
 
 - [ ] Het is duidelijk wie de gebruiker is 
 - [ ] Er is een User Storey geschreven van de interactie
-- [ ] Er is een wireflow getekend met alle mogelijke output (schermen en/of states), user flow en de interactie is goed weergegeven
+- [ ] Er is een Wireflow getekend met alle mogelijke output (schermen en/of states), de User Flow en de interactie zijn goed weergegeven
 - [ ] Alle schermen en/of states hebben een nummer, titel en beschrijving
 - [ ] De opdracht is gedocumenteerd in de Readme van de leertaak
 
