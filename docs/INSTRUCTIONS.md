@@ -1,7 +1,7 @@
 
 # Fix the Flow - Wireflow
 
-Teken een Wireflow van de belangrijkste interactie.
+Opdracht: Teken een Wireflow van de belangrijkste interactie van jouw opdracht.
 
 ## Context
 
@@ -16,8 +16,6 @@ Je leert hoe je een Wireflow moet tekenen en je ontwerp kan overbrengen aan een 
 
 
 ## Werkwijze
-
-Opdracht: Teken een Wireflow van de belangrijkste interactie van jouw opdracht.
 
 ![image](https://user-images.githubusercontent.com/1391509/146001976-f7c7ecb4-5e3e-48c0-bd75-1aa1bb244cc1.png)
 
