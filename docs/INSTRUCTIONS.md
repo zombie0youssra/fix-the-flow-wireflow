@@ -37,7 +37,6 @@ Voordat je een Wireflow gaat tekenen moet je goed beschrijven wie de gebruiker i
 - [How User Scenarios  Help to Improve Your UX](http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/)
 - [Wat is een User Story?](https://agilescrumgroup.nl/wat-is-een-user-story/)
 
-</details>
 
 ### Ontwerpen
 
@@ -61,7 +60,6 @@ Hieronder staat een  voorbeeld van een Wireflow met de _User Story_ `Als een geb
 
 - [Wireframing User Flow with Wireflows](https://balsamiq.com/learn/articles/wireflows/)
 
-</details>
 
 ### Testen
 
@@ -72,7 +70,6 @@ Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zi
 1. Laat de wireflow aan een klasgenoot zien en spreek de interactie door. 
 2. Is de schets duidelijk voor een collega designer en developer? Schrijf op- of aanmerkingen bij je schets.
 3. Verwerk de feedback als dat nodig is.
-
 
 
 ## Criteria
