@@ -1,7 +1,7 @@
 
 # Fix the Flow - Wireflow
 
-Opdracht: Teken een Wireflow van de belangrijkste User Flow en interactie.
+Opdracht: Teken de User flow in een Wireflow en codeer de interactie
 
 ## Context
 
