@@ -1,14 +1,13 @@
 
-# Fix the Flow - User Flow
+# Fix the Flow - Wireflow
 
-Opdracht: Teken de User flow in een Wireflow en codeer de interactie
+Opdracht: Schets de User flow in een Wireflow
 
 ## Context
 
 Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een deeltaak die je individueel uitvoert.
 
 In de workshop S05W1 - _User Flow, interactie en Wireflows_ wordt behandeld wat een Wireflow is en hoe je dit goed kan tekenen. 
-In de workshop S05W2 - _Programming User Interaction_ wordt behandeld hoe je interactie kan coderen met JS en CSS. 
 
 
 ## Doel van deze opdracht
