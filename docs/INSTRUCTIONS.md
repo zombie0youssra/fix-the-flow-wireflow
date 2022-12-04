@@ -19,7 +19,8 @@ Je leert hoe je de User Flow kan tekenen in een Wireflow.
 
 ## Werkwijze
 
-![image](https://user-images.githubusercontent.com/1391509/146001976-f7c7ecb4-5e3e-48c0-bd75-1aa1bb244cc1.png)
+<img width="1251" alt="image" src="https://user-images.githubusercontent.com/1391509/205519942-33db706c-cce8-43c7-bf59-95bdecf8bbbc.png">
+
 
 Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [test](#testen) fase van de DLC.
 
