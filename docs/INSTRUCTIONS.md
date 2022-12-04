@@ -49,11 +49,11 @@ Hieronder staat een  voorbeeld van een Wireflow met de _User Story_ `Als bezoeke
 
 #### Aanpak
 
-1. Schets alle mogelijke output (schermen en states) die een gebruiker te zien krijgt
+1. Schets alle mogelijke output (states en/of schermen) die een gebruiker te zien krijgt
 2. Geef met een andere kleur de interactie aan. Op welke elementen klikt een gebruiker? Scrollen of draggen?
 3. Geef met pijlen de _User Flow_ aan
-4. Geef elke scherm en state een nummer en titel
-5. Schrijf onder elk scherm en state wat een gebruiker doet en wat de interface moet laten zien
+4. Geef elke state een nummer en titel
+5. Schrijf onder elke state wat een gebruiker doet en wat de interface moet laten zien
 
 #### Materiaal
 
