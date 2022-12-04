@@ -11,7 +11,6 @@ In de workshop _S05W1-02-Userflow-Wireflows_ wordt behandeld wat een Wireflow is
 
 Deze deeltaak hoort de leertaak:
 - [fix-the-flow-interactive-website](https://github.com/fdnd-task/fix-the-flow-interactive-website) 
-- 
 
 ## Doel van deze opdracht
 
