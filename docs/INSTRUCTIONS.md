@@ -41,9 +41,7 @@ Voordat je een Wireflow gaat tekenen moet je goed beschrijven wie de gebruiker i
 
 ### Ontwerpen
 
-Een Wireflow geeft de User Flow weer van een interactie. 
-
-Teken een Wireflow die alle mogelijke output, de belangrijkste userflow  en de interactie duidelijk maakt.
+Teken een Wireflow die alle mogelijke output, de belangrijkste userflow  en de interactie duidelijk maakt. Een Wireflow toont opeenvolgende wireframes die verschillende states/schermen tonen, op basis van de interactie.
 
 Hieronder staat een  voorbeeld van een Wireflow met de _User Story_ `Als bezoeker wil ik een verhaal kunnen terugvinden door op een woord uit de titel te zoeken`
     
