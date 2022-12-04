@@ -26,7 +26,7 @@ Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [tes
 
 ### Analyseren
 
-Voordat je een Wireflow gaat tekenen moet je goed beschrijven wie de gebruiker is en wat de doelen van de gebruker zijn. Daarna kun je met een _User Story_ de belangrijkste interactie is die je gaat schetsen in een wireflow. 
+Voordat je een Wireflow gaat tekenen moet je goed beschrijven wie de gebruiker is en wat de doelen van de gebruiker zijn. Daarna kun je met een _User Story_ de interactie beschrijven die je wil ontwerpen. 
 
 #### Aanpak
 
@@ -45,7 +45,7 @@ Een Wireflow geeft de User Flow weer van een interactie.
 
 Teken een Wireflow die alle mogelijke output, de belangrijkste userflow  en de interactie duidelijk maakt.
 
-Hieronder staat een  voorbeeld van een Wireflow met de _User Story_ `Als een gebruiker wil ik een verhaal kunnen terugvinden door op een woord uit de titel te zoeken`
+Hieronder staat een  voorbeeld van een Wireflow met de _User Story_ `Als bezoeker wil ik een verhaal kunnen terugvinden door op een woord uit de titel te zoeken`
     
 ![image](https://user-images.githubusercontent.com/1391509/146001069-76346dd9-d579-421d-9bc4-79b5380b7637.png)
 
