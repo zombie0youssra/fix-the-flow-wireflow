@@ -85,7 +85,7 @@ De Wireflow opdracht is *done* als
 
 - [ ] Het is duidelijk wie de gebruiker is 
 - [ ] Er is een _User Story_ geschreven van de interactie
-- [ ] Er is een Wireflow getekend met alle mogelijke output (schermen en/of states)
-- [ ] Alle schermen en/of states hebben een nummer, titel en beschrijving
+- [ ] Er is een Wireflow getekend met alle mogelijke output (states en/of schermen)
+- [ ] Alle states hebben een nummer, titel en beschrijving
 - [ ] De _User Flow_ en de interactie zijn goed weergegeven
 - [ ] De opdracht is gedocumenteerd in de Readme van de leertaak
