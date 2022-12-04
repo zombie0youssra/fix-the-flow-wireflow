@@ -14,7 +14,7 @@ Deze deeltaak hoort de leertaak:
 
 ## Doel van deze opdracht
 
-Je leert hoe je de User Flow kan tekenen in een Wireflow en hoe je interactie kan coderen. 
+Je leert hoe je de User Flow kan tekenen in een Wireflow.
 
 
 ## Werkwijze
