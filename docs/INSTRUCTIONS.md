@@ -79,7 +79,7 @@ Focus sprint 5 - De focus van deze sprint ligt op interactie en informatie archi
 
 Voor deze deeltaak geldt het gedragscriterium:
 
-- Probleemoplossend vermogen: Student schetst om gedachten en processen te verkennen.
+Probleemoplossend vermogen: Student schetst om gedachten en processen te verkennen.
 
 
 De Wireflow opdracht is *done* als
